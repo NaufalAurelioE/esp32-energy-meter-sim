@@ -4,7 +4,7 @@ A Wokwi simulation of an energy-monitoring node for an energy-efficient vehicle.
 
 **Live demo:** [Open the simulation in Wokwi](https://wokwi.com/projects/481635920147238913)
 
-![Simulation screenshot](docs/simulation.png)
+![Simulation screenshot](simulation.png)
 
 ## Features
 
