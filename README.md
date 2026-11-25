@@ -2,7 +2,7 @@
 
 A Wokwi simulation of an energy-monitoring node for an energy-efficient vehicle. An ESP32 reads simulated battery voltage, motor current, and vehicle speed, then computes real-time power, accumulated energy (Wh), distance, and energy efficiency (km/kWh). Results are shown on a 20x4 driver-dashboard LCD and streamed as CSV telemetry over serial, with safety alerts for over-current and low battery voltage.
 
-**Live demo:** [Open the simulation in Wokwi](https://wokwi.com/projects/481635920147238913)
+**Live demo:** [Open the simulation in Wokwi](https://wokwi.com/projects/481637403573515265)
 
 ![Simulation screenshot](simulation.png)
 
