@@ -26,7 +26,7 @@ void setup() {
   lcd.backlight();
   
   lcd.setCursor(0, 0);
-  lcd.print("RAKATA EV JOULEMETER");
+  lcd.print("EV JOULEMETER");
   lcd.setCursor(0, 1);
   lcd.print("Initializing Sys...");
   delay(1500);
